@@ -1,0 +1,172 @@
+{
+  "employees": [
+    {
+      "title": "Rishabh Mishra",
+      "company": "QualyVal",
+      "category": "Full Stack Developer",
+      "image": "/images/pexels-photo-220453.jpg",
+      "id": 1
+    },
+    {
+      "title": "Arya Toamr",
+      "company": "HCL",
+      "category": "Web Developer",
+      "image": "/images/pexels-photo-532220.jpg",
+      "id": 2
+    },
+    {
+      "title": "Arnav Kumar",
+      "company": "Adobe",
+      "category": "Machine Learning",
+      "image": "/images/pexels-photo-1043474.jpeg",
+      "id": 3
+    },
+    {
+      "title": "Ashu Kumar",
+      "company": "Bhavana Corp",
+      "category": "Web Developer",
+      "image": "/images/pexels-photo-1222271.jpeg",
+      "id": 4
+    },
+    {
+      "title": "Kartik Bhatnagar",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-photo-1300402.jpeg",
+      "id": 5
+    },
+    {
+      "title": "John",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-ali-madad-sakhirani-997512.jpg",
+      "id": 6
+    },
+    {
+      "title": "William",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-andrew-personal-training-733500.jpg",
+      "id": 7
+    },
+    {
+      "title": "Josh",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-creation-hill-1681010.jpg",
+      "id": 8
+    },
+    {
+      "title": "Vick",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-daniel-xavier-1212984.jpg",
+      "id": 9
+    },
+    {
+      "title": "Harry",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-george-ikwegbu-2379429.jpg",
+      "id": 10
+    },
+    {
+      "title": "Callux",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-italo-melo-2379005.jpg",
+      "id": 11
+    },
+    {
+      "title": "Calfreezy",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-jeffrey-reed-769732.jpg",
+      "id": 12
+    },
+    {
+      "title": "Tobi",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-jeffrey-reed-769745.jpg",
+      "id": 13
+    },
+    {
+      "title": "Ethan",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-jt-kim-914472.jpg",
+      "id": 14
+    },
+    {
+      "title": "Randolph",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-mostafa-sannad-868113.jpg",
+      "id": 15
+    },
+    {
+      "title": "Chris",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-pixabay-262391.jpg",
+      "id": 16
+    },
+    {
+      "title": "Logan Paul",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-samad-ismayilov-1270076.jpg",
+      "id": 17
+    },
+    {
+      "title": "Jake Paul",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-sebastian-voortman-715546.jpg",
+      "id": 18
+    },
+    {
+      "title": "Deji",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-spencer-selover-775358.jpg",
+      "id": 19
+    },
+    {
+      "title": "Fousey",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-stefan-stefancik-91227.jpg",
+      "id": 20
+    },
+    {
+      "title": "Alex",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-wendy-wei-1656684.jpg",
+      "id": 21
+    },
+    {
+      "title": "Naman",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-yogendra-singh-1760901.jpg",
+      "id": 22
+    },
+    {
+      "title": "Lazar",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/pexels-photo-1516680.jpg",
+      "id": 23
+    },
+    {
+      "title": "Lachlan",
+      "company": "Infosys",
+      "category": "Web Developer",
+      "image": "/images/Last-image.jpg",
+      "id": 24
+    }
+  ]
+}
